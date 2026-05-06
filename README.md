@@ -77,7 +77,7 @@ No filter applied, Wireshark auto-flagged duplicate IP warnings natively in the 
 - Gratuitous ARP reply volume was abnormally high, consistent with continuous spoofing to keep tables poisoned.
 
 📸 *Screenshot: `screenshots/ARPSpoof.png`*
-📦 *Packet capture: `packet-captures/ARPSpoof.pcapng`*
+📦 *Packet capture: `packet-captures/ARPSpoof(1).pcapng`*
 
 ---
 
